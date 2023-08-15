@@ -4,17 +4,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>Devops Engineer- Home Page</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to DevOps Engineers Class 31 with successful future infrastructure and cloud Engineers.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of fintech and security clients globally.
-	           We are raising millionaires and billionaires in IT automation.
-	We offer Training for DevOps with Linux Ubuntu and Cloud equipping IT Engineers for best performance.
-	Class 31 graduates in June.
-	Class 32 begins on April 15th</h1>
+<h1 align="center">This is a highly functionable Maven Web Application.</h1>
+<h1 align="center">This deploys a highly functioning and scalable maven-web-application
+Devops engineers should test and build the application</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -36,19 +33,19 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mylandmarklogo.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Gamo Daniel, 
+		Douala, Cameroon
+		+237 676245087,
+		dannyjr1569@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:dannyjr1569@gmail.com">Mail to gamo daniel</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
+<p align=center> Devops engineer - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
