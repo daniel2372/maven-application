@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Devops Engineer- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/photo_2023-07-02_08-39-00.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -46,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <hr>
 <p align=center> Devops engineer - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Dannyjr</a> </small></p>
 
 </body>
 </html>
